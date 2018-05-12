@@ -1,0 +1,30 @@
+_repo: My-Austrian-LoveThe-History-of-the-Adventures-of-an-English-Composer-in-Vienna.-Written-in-th__46284
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46284-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Provost, Maxime
+    gutenberg_agent_id: '43699'
+    url: http://www.gutenberg.org/2009/agents/43699
+description: ''
+gutenberg_issued: '2014-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'British -- Austria -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Vienna (Austria) -- Fiction'
+- !lcsh 'Composers -- Fiction'
+title: 'My Austrian Love
+
+  The History of the Adventures of an English Composer in Vienna. Written in the Trenches
+  by Himself'
+url: http://www.gutenberg.org/ebooks/46284
