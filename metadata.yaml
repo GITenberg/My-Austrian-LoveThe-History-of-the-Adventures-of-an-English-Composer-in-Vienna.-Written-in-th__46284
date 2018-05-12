@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43699'
     url: http://www.gutenberg.org/2009/agents/43699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46284#My-Austrian-LoveThe-History-of-the-Adventures-of-an-English-Composer-in-Vienna.-Written-in-th_
 gutenberg_issued: '2014-07-14'
 gutenberg_type: Text
 identifiers:
